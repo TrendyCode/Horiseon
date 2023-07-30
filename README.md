@@ -25,6 +25,10 @@ During the project, several tasks were successfully accomplished to enhance the 
 5. Confirm that the images in the assets folder are referenced correctly within the HTML and CSS files.
 6. Once the deployment is complete, access website's URL to see it live on the web server.
 
+    ```md
+    ![Horiseon site screenshot](assets/images/horiseon_site.png)
+    ```
+
 ## Usage
 
 The website is designed for large screens of at least 768 px.
