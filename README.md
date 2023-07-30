@@ -13,7 +13,6 @@ During the project, several tasks were successfully accomplished to enhance the 
 - Added alt text to images for better accessibility and usability.
 - Provided explanatory comments within the HTML document to enhance code understanding.
 - Reorganized the CSS code to follow a logical structure for ease of maintenance.
-- Separated and alphabetically ordered classes and elements within their respective groups.
 - Introduced comments to clearly delineate each separation.
 - Included a descriptive title for improved context and understanding.
 
@@ -39,7 +38,3 @@ Collaborators include the UCF Full Stack Web Development Bootcamp staff 2020.
 MIT License
 
 Copyright (c) [2023] [Vanessa Mercedes]
-
-
-
-
