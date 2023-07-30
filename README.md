@@ -25,7 +25,9 @@ During the project, several tasks were successfully accomplished to enhance the 
 5. Confirm that the images in the assets folder are referenced correctly within the HTML and CSS files.
 6. Once the deployment is complete, access website's URL to see it live on the web server.
 
-![horiseon_site](https://github.com/TrendyCode/Horiseon/assets/69661245/3a71c6e7-0f64-4869-8acb-48b7e02b93e5)
+
+![horiseon_site](https://github.com/TrendyCode/Horiseon/assets/69661245/7e3b23ad-6186-4e1a-8e59-787ef44ffb91)
+
 
 
 ## Usage
