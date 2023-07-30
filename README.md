@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactor Code
 
 ## Description
 
@@ -25,9 +25,8 @@ During the project, several tasks were successfully accomplished to enhance the 
 5. Confirm that the images in the assets folder are referenced correctly within the HTML and CSS files.
 6. Once the deployment is complete, access website's URL to see it live on the web server.
 
-    ```md
-    ![Horiseon site screenshot](assets/images/horiseon_site.png)
-    ```
+![horiseon_site](https://github.com/TrendyCode/Horiseon/assets/69661245/3a71c6e7-0f64-4869-8acb-48b7e02b93e5)
+
 
 ## Usage
 
@@ -41,4 +40,4 @@ Collaborators include the UCF Full Stack Web Development Bootcamp staff 2020.
 
 MIT License
 
-Copyright (c) [2023] [Vanessa Mercedes]
+Copyright (c) [2023] [Vanessa M]
