@@ -26,7 +26,7 @@ During the project, several tasks were successfully accomplished to enhance the 
 6. Once the deployment is complete, access website's URL to see it live on the web server.
 
 
-![horiseon_site](https://github.com/TrendyCode/Horiseon/assets/69661245/7e3b23ad-6186-4e1a-8e59-787ef44ffb91)
+![horiseon_site](assets/images/horiseon_site.png)
 
 
 
